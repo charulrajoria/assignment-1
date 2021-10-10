@@ -40,7 +40,7 @@ nav ul li a:hover{
 /* section2*/
 .hero{
     height: 60vh;
-    background: url('imges/vid2.jpg');
+    background: url('images/vid2.jpg');
     margin-bottom: 2rem;
     border-radius: var(--borderRadius);
     position: relative;
